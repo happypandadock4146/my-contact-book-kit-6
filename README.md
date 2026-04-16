@@ -1,2 +1,9 @@
-# my-contact-book-kit-6
-A simple contact book project
+# Contact Book
+
+A simple contact book project.
+\n
+## Getting Started
+
+```bash
+python contact.py
+```
